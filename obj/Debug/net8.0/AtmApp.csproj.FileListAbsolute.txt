@@ -1,0 +1,14 @@
+/home/brain/C# Projects/AtmApp/obj/Debug/net8.0/AtmApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/brain/C# Projects/AtmApp/obj/Debug/net8.0/AtmApp.AssemblyInfoInputs.cache
+/home/brain/C# Projects/AtmApp/obj/Debug/net8.0/AtmApp.AssemblyInfo.cs
+/home/brain/C# Projects/AtmApp/obj/Debug/net8.0/AtmApp.csproj.CoreCompileInputs.cache
+/home/brain/C# Projects/AtmApp/bin/Debug/net8.0/AtmApp
+/home/brain/C# Projects/AtmApp/bin/Debug/net8.0/AtmApp.deps.json
+/home/brain/C# Projects/AtmApp/bin/Debug/net8.0/AtmApp.runtimeconfig.json
+/home/brain/C# Projects/AtmApp/bin/Debug/net8.0/AtmApp.dll
+/home/brain/C# Projects/AtmApp/bin/Debug/net8.0/AtmApp.pdb
+/home/brain/C# Projects/AtmApp/obj/Debug/net8.0/AtmApp.dll
+/home/brain/C# Projects/AtmApp/obj/Debug/net8.0/refint/AtmApp.dll
+/home/brain/C# Projects/AtmApp/obj/Debug/net8.0/AtmApp.pdb
+/home/brain/C# Projects/AtmApp/obj/Debug/net8.0/AtmApp.genruntimeconfig.cache
+/home/brain/C# Projects/AtmApp/obj/Debug/net8.0/ref/AtmApp.dll
